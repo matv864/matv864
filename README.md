@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm matv864
+---
+I'm a python developer with no good portfolio. But in lately I've been working harder under on an animal shelter website to help homeless pets. It's just one of the projects I'm really proud of. I'd be happy you if you take a look at this repo and tell me how I can make better my project.
 
-<!--
-**matv864/matv864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__*(If you didn't notice this is a real animal shelter in Eastern Russia)))*__
 
-Here are some ideas to get you started:
+~~zooprim125.ru~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_(The server don't work because I'm playing with wireguard VPN over a remote connection, but I'll show you the working website in the near future)_
+
+# You can see their photo while website don't work
+[photo of pets](https://github.com/matv864/smm_shelter/tree/1c40bc313167fa0914716264bf9df6148355172e/storage/pets_images)
+
+![[assets/anime_girl.jpeg]]
+
