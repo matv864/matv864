@@ -11,5 +11,8 @@ _(The server don't work because I'm playing with wireguard VPN over a remote con
 # You can see their photo while website don't work
 [photo of pets](https://github.com/matv864/smm_shelter/tree/1c40bc313167fa0914716264bf9df6148355172e/storage/pets_images)
 
-![[assets/anime_girl.jpeg]]
+<img src=https://raw.githubusercontent.com/matv864/matv864/main/assets/anime_girl.jpeg height="100" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+
 
