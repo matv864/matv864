@@ -4,9 +4,8 @@ I'm a python developer with no good portfolio. But in lately I've been working h
 
 __*(If you didn't notice this is a real animal shelter in Eastern Russia)))*__
 
-~~zooprim125.ru~~
+zooprim125.ru
 
-_(The server don't work because I'm playing with wireguard VPN over a remote connection, but I'll show you the working website in the near future)_
 
 # You can see their photo while website don't work
 [photo of pets](https://github.com/matv864/smm_shelter/tree/1c40bc313167fa0914716264bf9df6148355172e/storage/pets_images)
